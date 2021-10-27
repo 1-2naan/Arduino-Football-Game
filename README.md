@@ -1,5 +1,5 @@
 # Arduino-Football-Game
-This repository contains the code for my Robotics group project. It is basically a football penalty game, where two players compete against each other.
+This repository contains the code for our Robotics group project. It is basically a football penalty game, where two players compete against each other.
 
 Player 1 controls the cannon that shoots the ball. The cannon makes use of two servo motors, one to adjust the angle of the shot and the other to trigger the cannon and release the football.
 
